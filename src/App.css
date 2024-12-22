@@ -1,0 +1,17 @@
+.st-hG{
+    text-align: center;
+    background-color: lightblue;
+    border: 1px solid black;
+    text-shadow: 0 0 20 blueviolet;
+ 
+}
+
+
+.mainCont{
+    display: flex;
+    justify-content: space-evenly;
+    
+    /* background-color: lightblue; */
+    /* flex-direction: row; */
+    /* padding: 40px; */
+}

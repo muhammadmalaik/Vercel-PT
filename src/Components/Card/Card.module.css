@@ -1,0 +1,34 @@
+.divContainer{
+width: 100%;
+    border: 1px solid black;
+    box-shadow: 0 0 20px grey;
+    margin: 8px;
+    max-width: 250px;
+    text-align: center;
+    padding: 10px;
+    /* display: inline-block; */
+    gap: 20;
+    /* justify-content: space-between; */
+    /* display: flex; */
+}
+
+/* .Cd {
+    justify-content: space-evenly;
+
+} */
+
+.divContainer h2 {
+    color: rgb(192, 12, 12);
+    background-color: lightblue;
+}
+
+.divContainer p{
+    color: black;
+    background-color: lightblue;
+    
+
+}
+
+.img{
+    max-width: 100%;
+}
